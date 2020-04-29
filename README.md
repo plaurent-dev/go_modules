@@ -8,8 +8,6 @@ Note : I had no golang background at all
 
 Version used is **go1.14.2 linux/amd64**
 
-[TOC]
-
 ## Prerequisite
 
 GOPATH has to be properly configured. Mine has been added within **~/.bashrc** even if i think it could be a better idea to use .profile instead.
